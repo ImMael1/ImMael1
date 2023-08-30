@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
 ### Hello World! 👋
 
 - 🔭 I like astronomy and in my free time to play some game
