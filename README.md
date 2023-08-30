@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Pacheco;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Pacheco;I'm+19+years+old;I'm+from+Brazil;I'm+majoring+in+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hello World! 👋
 
-- 🔭 I like astronomy and in my free time to play some game
+- 🔭 I like to read and play in my spare time
 - 🌱 I’m currently learning Python
-- ⚡ Systems analysis and development student
+- ⚡ Second period of systems analysis and development
 
 
-<p align="center">I ❤️ solve great challenges using tech. 
+<p align="center">I solve great challenges using tech. 
           
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ImMael1&theme=radical&mode=weekly" />
