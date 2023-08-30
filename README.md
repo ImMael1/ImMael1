@@ -1,9 +1,5 @@
 ### Hello World! 👋
 
-**ImMael1/ImMael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I like astronomy and in my free time to play some game
 - 🌱 I’m currently learning Python
 - ⚡ Systems analysis and development student
