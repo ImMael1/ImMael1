@@ -6,7 +6,7 @@
 
 - 🔭 I like to read and play in my spare time
 - 🌱 I’m currently learning Python
-- ⚡ Second period of systems analysis and development
+- ⚡ Third period of systems analysis and development
 
 <p align="center">I solve great challenges using tech. 
   
