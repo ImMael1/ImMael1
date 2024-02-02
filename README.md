@@ -43,7 +43,8 @@
 
 <div>
 <a href="https://www.linkedin.com/in/eduardo-marinho-2628082b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mcarlos.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""></a>
+<a href="mailto:mcarlos.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mcarlos.work@gmail.com" onclick="window.open(this.href, '_blank'); return false;"><img src="caminho-para-o-icone"></a>
 <div>
 
 <div align="center">
